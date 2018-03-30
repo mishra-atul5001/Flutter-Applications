@@ -1,4 +1,4 @@
-package com.yourcompany.flutterapptabbar;
+package com.yourcompany.flutterappactivity;
 
 import android.os.Bundle;
 

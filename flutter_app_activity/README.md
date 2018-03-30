@@ -1,6 +1,6 @@
-# flutter_app_tabbar
+# flutter_app_activity
 
-A new Flutter application to test Tab Bar
+A new Flutter application.
 
 ## Getting Started
 

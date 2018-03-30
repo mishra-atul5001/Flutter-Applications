@@ -1,5 +1,5 @@
-name: flutter_app_tabbar
-description: A new Flutter application to test Tab Bar
+name: flutter_app_activity
+description: A new Flutter application.
 
 dependencies:
   flutter:
